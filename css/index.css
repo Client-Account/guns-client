@@ -410,17 +410,32 @@ footer p { font-size:13px; color:#CCC; padding-bottom:0px; margin-bottom:8px;}
 }
 
 /* Dealers*/
-.container1{
+.container2{
 	background-color: rgb(240, 235, 235);
+	padding-bottom: 0%;
+
 }
 
-
- .dealers {
+.container2 img{
 	
-	background-color: rgb(252, 201, 182);
+	border: 3px solid pink;
+	border-bottom-left-radius: 30px;
+	border-top-right-radius: 30px;
+	display: block;
+	width: 100%;
+	height: 250px;
+}
+
+.container2 h4{
+	text-decoration: underline;
+}
+
+.dealer1 {
+	margin-bottom: 30px;
 	
 }
 
+ 
 
 /* Feedback */
 
